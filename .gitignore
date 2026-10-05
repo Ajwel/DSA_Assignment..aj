@@ -1,0 +1,5 @@
+*.exe
+*.o
+assignment
+*.obj
+__pycache__/
